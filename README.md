@@ -1,8 +1,5 @@
-# Le contenu des séquences
-* [Séquence I : Rappels de trigonométrie](https://www.overleaf.com/read/jfxsrwgpqfhm)
-* [Séquence II : Rappels sur les nombres complexes](https://www.overleaf.com/read/pddpsqkxtmdk)
-* [Séquence III : Signal discret - Aspect temporel](https://www.overleaf.com/read/tyxqvmxvvfwc)
-* [Séquence IV : Signal discret - Aspect fréquentiel](https://www.overleaf.com/read/gyybtqwvbtjs)
-* [Séquence V : Signal discret - Aspect fréquentiel](https://www.overleaf.com/read/bdnnpcnstbpg)
-* [Séquence VI : Introduction au filtrage](SEQUENCE_VI.pdf)
-* [Séquence VII : Contrôle continu final](https://www.overleaf.com/read/xhctcfpcgcqb)
+# Le contenu des séquences de cours
+* [Présentation générale du module](Fiche cours L3-ESPM - Métrologie - FPS620BM.pdf)
+* [Cours I :  Le signal et son acquisition](1 - Présentation1.pdf)
+* [Cours II : Enregistrer le signal](https://www.overleaf.com/read/pddpsqkxtmdk)
+* [Cours III : La chaine d'acquisition du signal](https://www.overleaf.com/read/tyxqvmxvvfwc)
